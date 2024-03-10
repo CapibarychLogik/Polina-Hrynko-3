@@ -43,18 +43,18 @@ footer p {
     padding: 5px;
 }
 
-head_img {
+.head_img {
      display: block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 45px;
 }
-header_img{
+.header_img{
    float:right; 
 }
-footer_img{
+.footer_img{
     float:right; 
 }
-catalog_img{
+.catalog_img{
    float:right;  
 }
