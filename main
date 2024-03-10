@@ -7,9 +7,9 @@
         <header>
             <img src="https://cdn.icon-icons.com/icons2/1834/PNG/512/iconfindervwlogo4140434-115963_115918.png" height="50px"/>
             <nav>
-                 <a href=""><b>Silver</b></a>
-                <a href="#catalog">R-Line Platinum</a>
-                <a href="">R-Line Platinum+</a>
+                 <a href="main"><b>Silver</b></a>
+                <a href="catalog">R-Line Platinum</a>
+                <a href="footer">R-Line Platinum+</a>
             </nav>
         </header>
         <main>
