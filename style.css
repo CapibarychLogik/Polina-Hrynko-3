@@ -1,1 +1,51 @@
 
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+nav {
+    border-top: 3px solid royalblue;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid royalblue;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: navy;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    color: green;
+    margin-left: 100px;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+footer {
+    background-color: royalblue;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    font-size: 20px;
+    display: block;
+}
+
+footer p {
+    background-color: #fcfcf6;
+    padding: 5px;
+}
+
+main img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 45px;
+}
