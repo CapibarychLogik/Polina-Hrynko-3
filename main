@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <title>Volkswagen</title>
+     <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <img src="https://cdn.icon-icons.com/icons2/1834/PNG/512/iconfindervwlogo4140434-115963_115918.png" height="50px"/>
+            <nav>
+                 <a href=""><b>Silver</b></a>
+                <a href="#catalog">R-Line Platinum</a>
+                <a href="">R-Line Platinum+</a>
+            </nav>
+        </header>
+        <main>
+            <h1>Volkswagen</h1>
+            <img class="head_img" src="https://cf-cdn-v6.volkswagen.at/media/Content_Model_Equipment_Lightbox_Child_MediaBig_Image_Component/83953-1281726_lightbox-939483-mediaBig-child/dh-1015-00fe24/10eb2654/1709804960/touareg-silver.png" width="770px"/>
+            <p><b>Від 2 566 940 грн.</b></p>
+<p>+ Адаптивна пневматична підвіска із автоматичним регулювання висоти</p>
+<p>+ Бездротовий AppConnect: Apple CarPlay & AndroidAuto</p>
+<p>+ Комфортне закриття дверей із доводчиками</p>
+<p>+ Digital Cockpit та мультимедійна система Discover Premium</p>
+<p>+ Асистент світла Light Assist</p>
+<p>+ Шкіряний салон Vienna ergoComfort</p>
+<p>+ Пакет Easy Open з функцією Safe</p>
+<p>+ Сигналізація</p>
+<p>+ Темнотоноване задні бокові та заднє скло</p>
+<p>+ Обігрів лобового скла, керма, переднього і заднього ряду сидінь</p>
+<p>+ Паркувальний асистент Park Assist, парк-пілот спереду та ззаду, камера
+заднього виду Rear View</p>
+<p>+ Легкосплавні диски Osorno R19</p>
+<p>+ Передня та задня LED оптика</p>
+        </main>
+        <footer>
+            <p>Телефон: 0 67 356 61 28</p>
+            <p>Місто: Вінниця</p>
+        </footer>
+    </body>
+</html>
