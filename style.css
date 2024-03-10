@@ -44,5 +44,11 @@ footer p {
 }
 
 main img {
-    float:right;
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 45px;
+}
+header_img{
+   float:right; 
 }
