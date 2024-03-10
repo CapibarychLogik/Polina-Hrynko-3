@@ -1,0 +1,44 @@
+<html>
+ <head>
+    <title>Volkswagen</title>
+     <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <img src="https://cdn.icon-icons.com/icons2/1834/PNG/512/iconfindervwlogo4140434-115963_115918.png" height="50px"/>
+            <nav>
+                 <a href="">Silver</a>
+                <a href="#catalog">R-Line Platinum</a>
+                <a href=""><b>R-Line Platinum+</b></a>
+            </nav>
+        </header>
+        <main>
+            <h1>Volkswagen</h1>
+            <img class="head_img" src="https://cf-cdn-v6.volkswagen.at/media/Content_Model_Equipment_Lightbox_Child_MediaBig_Image_Component/83953-1281726_lightbox-939485-mediaBig-child/dh-1015-00fe24/65dc5192/1709805103/touareg-platinum-plus.png" width="570px"/>
+            <p><b>Від 3 174 320 грн.</b></p>
+<p>+ Шкіряний салон Puglia ErgoComfort, обігрів передніх та задніх бокових сидінь</p>
+<p>+ Легкосплавні диски Leeds R21</p>
+<p>+ Клімат-контроль чотирьохзонний Air Care Climatronic</p>
+<p>+ Розширений пакет асистентів водія (система допомоги руху в заторах, Travel Assist, Асистент проїзду перехресть, Pre Crash, Emergency Assist)</p>
+<p>+ Адаптивна пневматична підвіска із автоматичним регулювання висоти</p>
+<p>+ Бездротовий AppConnect: Apple CarPlay & AndroidAuto</p>
+<p>+ Комфортне закриття дверей із доводчиками</p>
+<p>+ Innovision Cockpit, Heap-Up дисплей із проекцією на лобове скло</p>
+<p>+ Аудіосистема Dynaudio Consequence</p>
+<p>+ Система нічного бачення Night vision</p>
+<p>+ Підсвітка салону Ambiente (дворівнева, 30 кольорів)</p>
+<p>+ Адаптивний круїз-контроль</p>
+<p>+ Паркувальний асистент Park Assist, парк-пілот спереду та ззаду, камера заднього виду Rear View</p>
+<p>+ Передня матрична LED оптика HD та задня LED із динамічними покажчиками поворотів</p>
+<p>+ Передні сидіння ergoComfort із функцією масажу та активною кліматизацією</p>
+<p>+ Black Style R-Line Екстер'єр</p>
+<p>+ Пакет Easy Open з функцією Safe</p>
+<p>+ Сигналізація</p>
+<p>+ Обігрів лобового скла та керма</p>
+        </main>
+        <footer>
+            <p>Телефон: 0 67 356 61 28</p>
+            <p>Місто: Вінниця</p>
+        </footer>
+    </body>
+</html>
